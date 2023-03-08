@@ -1,0 +1,270 @@
+@charset "utf-8";
+/* CSS Curriculum Vitae */
+#Titulo {
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	background-color: #0CF;
+	background-position: center center;
+	word-spacing: normal;
+	letter-spacing: normal;
+	vertical-align: baseline;
+	white-space: normal;
+	display: block;
+	height: auto;
+	width: auto;
+	padding: 3px;
+	margin: 5px;
+}
+#Menu {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	background-color: #6FC;
+	letter-spacing: normal;
+	vertical-align: baseline;
+	word-spacing: normal;
+	margin: 5px;
+	padding: 3px;
+	height: auto;
+	width: auto;
+	background-position: center center;
+	text-align: center;
+	white-space: normal;
+	display: block;
+}
+#fotodeperfil {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-image: none;
+	background-repeat: no-repeat;
+	margin: 10px;
+	padding: 5px;
+	height: auto;
+	width: auto;
+	clear: both;
+	float: none;
+	background-attachment: fixed;
+	background-position: center center;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	top: 3px;
+	clip: rect(3px,auto,auto,auto);
+	position: absolute;
+	z-index: auto;
+	visibility: visible;
+	overflow: auto;
+	left: auto;
+	right: auto;
+	bottom: auto;
+	text-align: center;
+	letter-spacing: normal;
+	word-spacing: normal;
+	vertical-align: baseline;
+	white-space: normal;
+	display: block;
+}
+body,td,th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+#Titulo {
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	background-color: #0CF;
+	background-position: center center;
+	word-spacing: normal;
+	letter-spacing: normal;
+	vertical-align: baseline;
+	white-space: normal;
+	display: block;
+	height: auto;
+	width: auto;
+	padding: 3px;
+	margin: 5px;
+}
+#Menu {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	background-color: #6FC;
+	letter-spacing: normal;
+	vertical-align: baseline;
+	word-spacing: normal;
+	margin: 5px;
+	padding: 3px;
+	height: auto;
+	width: auto;
+	background-position: center center;
+	text-align: center;
+	white-space: normal;
+	display: block;
+}
+body,td,th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#Titulo {
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	background-color: #0CF;
+	background-position: center center;
+	word-spacing: normal;
+	letter-spacing: normal;
+	vertical-align: baseline;
+	white-space: normal;
+	display: block;
+	height: auto;
+	width: auto;
+	padding: 5px;
+	margin: 10px;
+}
+#Menu {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	letter-spacing: normal;
+	vertical-align: baseline;
+	word-spacing: normal;
+	margin: 5px;
+	padding: 3px;
+	height: auto;
+	width: auto;
+	background-position: center center;
+	text-align: center;
+	white-space: normal;
+	display: block;
+	background-color: #CCC;
+}
+body,td,th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #00F;
+	font-size: 16px;
+	font-weight: bold;
+	height: auto;
+	width: 300px;
+}
+#pie {
+	background-color: #666;
+	text-align: center;
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: #999;
+	width: auto;
+	margin: 10px;
+	padding: 5px;
+	position: relative;
+	height: auto;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFF;
+	font-weight: bold;
+}
+
+#nombreCompleto {
+	background-color: #CF9;
+	text-align: center;
+	display: block;
+	width: auto;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+/*boton de menu*/
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 3px 9px;
+    border: 1px solid #30ab19;
+    border-radius: 8px;
+    background: #4eff28;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4eff28), to(#30ab19));
+    background: -moz-linear-gradient(top, #4eff28, #30ab19);
+    background: linear-gradient(to bottom, #4eff28, #30ab19);
+    text-shadow: #227a12 1px 1px 1px;
+    font: normal normal bold 17px tahoma;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 1px solid ##44f423;
+    background: #5eff30;
+    background: -webkit-gradient(linear, left top, left bottom, from(#5eff30), to(#3acd1e));
+    background: -moz-linear-gradient(top, #5eff30, #3acd1e);
+    background: linear-gradient(to bottom, #5eff30, #3acd1e);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #30ab19;
+    background: -webkit-gradient(linear, left top, left bottom, from(#30ab19), to(#30ab19));
+    background: -moz-linear-gradient(top, #30ab19, #30ab19);
+    background: linear-gradient(to bottom, #30ab19, #30ab19);
+}
+
+/*FIN boton de menu*/
